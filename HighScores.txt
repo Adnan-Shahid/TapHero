@@ -1,0 +1,19 @@
+Adnan,10000
+spaghetti,0
+Marion,20
+Jarraf,10
+Ginu,69
+Poo,0
+CasualSpaghetti,500
+cool beans,3000
+dude,3000
+Unknown,3000
+SeriousSpaghetti,6050
+Cream,2050
+CreamySpinach,6350
+Unknown,2650
+Unknown,650
+Unknown,0
+Faker,32600
+test1,16900
+dude,0
